@@ -1,3 +1,7 @@
+This repository is a HTML site template that I downloaded from html5up.net and tailored to my needs. Their ReadMe is shown below.
+
+----------------------------------------------------------------------------------------------------------------------
+
 Photon by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
